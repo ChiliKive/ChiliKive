@@ -1,7 +1,3 @@
-# 💫 About Me:
-Software engineering student exploring Data Science and ML Engineering
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nazar-ilchyshyn-3284bb300) 
 
